@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/xin/Desktop/NTU/大一下/資料結構/DSAP110-Final-v0.1.2/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -iframework /Library/Frameworks -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++17 -o CMakeFiles/DSAP_Final.dir/src/main.cpp.o -c /Users/xin/Desktop/NTU/大一下/資料結構/DSAP110-Final-v0.1.2/src/main.cpp",
+  "file": "/Users/xin/Desktop/NTU/大一下/資料結構/DSAP110-Final-v0.1.2/src/main.cpp"
+},
+{
+  "directory": "/Users/xin/Desktop/NTU/大一下/資料結構/DSAP110-Final-v0.1.2/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -iframework /Library/Frameworks -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++17 -o CMakeFiles/DSAP_Final.dir/src/Snake.cpp.o -c /Users/xin/Desktop/NTU/大一下/資料結構/DSAP110-Final-v0.1.2/src/Snake.cpp",
+  "file": "/Users/xin/Desktop/NTU/大一下/資料結構/DSAP110-Final-v0.1.2/src/Snake.cpp"
+},
+{
+  "directory": "/Users/xin/Desktop/NTU/大一下/資料結構/DSAP110-Final-v0.1.2/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -iframework /Library/Frameworks -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++17 -o CMakeFiles/DSAP_Final.dir/src/Game.cpp.o -c /Users/xin/Desktop/NTU/大一下/資料結構/DSAP110-Final-v0.1.2/src/Game.cpp",
+  "file": "/Users/xin/Desktop/NTU/大一下/資料結構/DSAP110-Final-v0.1.2/src/Game.cpp"
+},
+{
+  "directory": "/Users/xin/Desktop/NTU/大一下/資料結構/DSAP110-Final-v0.1.2/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -iframework /Library/Frameworks -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++17 -o CMakeFiles/DSAP_Final.dir/src/Position.cpp.o -c /Users/xin/Desktop/NTU/大一下/資料結構/DSAP110-Final-v0.1.2/src/Position.cpp",
+  "file": "/Users/xin/Desktop/NTU/大一下/資料結構/DSAP110-Final-v0.1.2/src/Position.cpp"
+},
+{
+  "directory": "/Users/xin/Desktop/NTU/大一下/資料結構/DSAP110-Final-v0.1.2/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -iframework /Library/Frameworks -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++17 -o CMakeFiles/DSAP_Final.dir/src/GUI.cpp.o -c /Users/xin/Desktop/NTU/大一下/資料結構/DSAP110-Final-v0.1.2/src/GUI.cpp",
+  "file": "/Users/xin/Desktop/NTU/大一下/資料結構/DSAP110-Final-v0.1.2/src/GUI.cpp"
+},
+{
+  "directory": "/Users/xin/Desktop/NTU/大一下/資料結構/DSAP110-Final-v0.1.2/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -iframework /Library/Frameworks -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++17 -o CMakeFiles/DSAP_Final.dir/src/StraightForwardController.cpp.o -c /Users/xin/Desktop/NTU/大一下/資料結構/DSAP110-Final-v0.1.2/src/StraightForwardController.cpp",
+  "file": "/Users/xin/Desktop/NTU/大一下/資料結構/DSAP110-Final-v0.1.2/src/StraightForwardController.cpp"
+}
+]

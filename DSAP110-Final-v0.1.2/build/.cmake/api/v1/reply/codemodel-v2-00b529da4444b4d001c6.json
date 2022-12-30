@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DSAP_Final",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DSAP_Final::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSAP_Final-Debug-7bc3434111ff615fa754.json",
+					"name" : "DSAP_Final",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/xin/Desktop/NTU/\u5927\u4e00\u4e0b/\u8cc7\u6599\u7d50\u69cb/DSAP110-Final-v0.1.2/build",
+		"source" : "/Users/xin/Desktop/NTU/\u5927\u4e00\u4e0b/\u8cc7\u6599\u7d50\u69cb/DSAP110-Final-v0.1.2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
